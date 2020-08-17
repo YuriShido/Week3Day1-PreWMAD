@@ -16,7 +16,7 @@
 
 const addTwoNumbers = function() {
 
-  //Your code goes here
+  console.log(x + y);
 
 }
 
